@@ -9,7 +9,6 @@
 
 I’m a QA Lead / QA Architect with 10+ years of experience designing test automation architectures, scaling quality engineering teams, and embedding quality across the software delivery lifecycle. I combine hands-on automation and test engineering with strategic leadership to deliver reliable CI/CD-aligned test pipelines and measurable QA outcomes.
 
-One-liner for recruiters: Seeking senior/lead QA or consulting roles to design automation strategy, build scalable test frameworks, and integrate robust CI/CD testing pipelines.
 
 ---
 
