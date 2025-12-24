@@ -1,4 +1,4 @@
-# Hi, I'm donrifad 👋
+# Hi, I'm rifad 👋
 
 [![](https://img.shields.io/badge/Open%20to%20Opportunities-Yes-brightgreen?style=flat&logo=github)](https://github.com/donrifad)
 [![](https://img.shields.io/badge/Website-donrifad-informational?style=flat&logo=github)](https://github.com/donrifad)
